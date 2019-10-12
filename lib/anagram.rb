@@ -7,6 +7,7 @@ class Anagram
   end
   
   def match(aOw)
-    aOw.select
+    aOw.select do |el|
+      
   end
 end
